@@ -6,12 +6,12 @@
    <UUID>2372e9c6-ff52-4d36-81e6-6d6509dc8bda</UUID>
    <createdEdition>ENTERPRISE</createdEdition>
    <createdVersion>11.0.0</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>ENTERPRISE</modifiedEdition>
-   <modifiedVersion>11.0.0</modifiedVersion>
+   <modifiedVersion>10.4.3</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\52254435\git\DemoProject\DemoProject.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\52370984\git\DemoProject\DemoProject.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
