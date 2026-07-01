@@ -19,3 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('www.google.com')
 
+WebUI.maximizeWindow()
+
+WebUI.closeBrowser()
+
